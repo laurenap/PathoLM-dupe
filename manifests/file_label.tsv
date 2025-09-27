@@ -1,0 +1,24 @@
+path	label
+data_collection/Bacteria_ESKAPEE/non-pathogenic set/Bacillus_subtilis_168_GCF_000009045.1.fna	0
+data_collection/Bacteria_ESKAPEE/non-pathogenic set/Ecoli_K12_MG1655.fasta	0
+data_collection/Bacteria_ESKAPEE/non-pathogenic set/Escherichia_coli_K12_MG1655_GCF_000005845.2.fna	0
+data_collection/Bacteria_ESKAPEE/pathogenic set/ecloacae/ncbi_dataset/data/GCF_000025565.1/GCF_000025565.1_ASM2556v1_genomic.fna	1
+data_collection/Bacteria_ESKAPEE/pathogenic set/ecoli_O157/ncbi_dataset/data/GCF_000008865.1/GCF_000008865.1_ASM886v1_genomic.fna	1
+data_collection/Bacteria_ESKAPEE/pathogenic set/saureus/ncbi_dataset/data/GCF_000013425.1/GCF_000013425.1_ASM1342v1_genomic.fna	1
+data_collection/Bacteria_ESKAPEE/pathogenic set/kpneumoniae/ncbi_dataset/data/GCF_000240185.1/GCF_000240185.1_ASM24018v2_genomic.fna	1
+data_collection/Bacteria_ESKAPEE/pathogenic set/abaumannii/ncbi_dataset/data/GCF_000746645.1/GCF_000746645.1_ASM74664v1_genomic.fna	1
+data_collection/Bacteria_ESKAPEE/pathogenic set/efaecium/ncbi_dataset/data/GCF_000173815.1/GCF_000173815.1_ASM17381v1_genomic.fna	1
+data_collection/Bacteria_ESKAPEE/pathogenic set/paeruginosa/ncbi_dataset/data/GCF_000006765.1/GCF_000006765.1_ASM676v1_genomic.fna	1
+data_collection/Viruses/Human-pathogenic/norovirusGII/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/merscov/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/influenzaC/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/influenzaB/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/HIV1/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/hcov229e/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/sarscov2/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/norovirusG1/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/hcovOC43/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/hcovNL63/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/hcovHKU1/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/influenzaA/ncbi_dataset/data/genomic.fna	1
+data_collection/Viruses/Human-pathogenic/sarscov1/ncbi_dataset/data/genomic.fna	1

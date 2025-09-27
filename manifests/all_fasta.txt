@@ -1,0 +1,44 @@
+data_collection/Bacteria_ESKAPEE/non-pathogenic set/Bacillus_subtilis_168_GCF_000009045.1.fna
+data_collection/Bacteria_ESKAPEE/non-pathogenic set/Ecoli_K12_MG1655.fasta
+data_collection/Bacteria_ESKAPEE/non-pathogenic set/Escherichia_coli_K12_MG1655_GCF_000005845.2.fna
+data_collection/Bacteria_ESKAPEE/pathogenic set/ecloacae/ncbi_dataset/data/GCF_000025565.1/GCF_000025565.1_ASM2556v1_genomic.fna
+data_collection/Bacteria_ESKAPEE/pathogenic set/ecoli_O157/ncbi_dataset/data/GCF_000008865.1/GCF_000008865.1_ASM886v1_genomic.fna
+data_collection/Bacteria_ESKAPEE/pathogenic set/saureus/ncbi_dataset/data/GCF_000013425.1/GCF_000013425.1_ASM1342v1_genomic.fna
+data_collection/Bacteria_ESKAPEE/pathogenic set/kpneumoniae/ncbi_dataset/data/GCF_000240185.1/GCF_000240185.1_ASM24018v2_genomic.fna
+data_collection/Bacteria_ESKAPEE/pathogenic set/abaumannii/ncbi_dataset/data/GCF_000746645.1/GCF_000746645.1_ASM74664v1_genomic.fna
+data_collection/Bacteria_ESKAPEE/pathogenic set/efaecium/ncbi_dataset/data/GCF_000173815.1/GCF_000173815.1_ASM17381v1_genomic.fna
+data_collection/Bacteria_ESKAPEE/pathogenic set/paeruginosa/ncbi_dataset/data/GCF_000006765.1/GCF_000006765.1_ASM676v1_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /acMNPV/ncbi_dataset/data/GCA_000838485.1/GCA_000838485.1_ViralProj14023_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /acMNPV/ncbi_dataset/data/GCA_031120375.1/GCA_031120375.1_ASM3112037v1_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /acMNPV/ncbi_dataset/data/GCF_000838485.1/GCF_000838485.1_ViralProj14023_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /camv/ncbi_dataset/data/GCF_000848745.1/GCF_000848745.1_ViralProj14574_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /camv/ncbi_dataset/data/GCA_000848745.1/GCA_000848745.1_ViralProj14574_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /camv/ncbi_dataset/data/GCF_000848745.2/GCF_000848745.2_ASM84874v2_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /t4/ncbi_dataset/data/GCA_964637215.1/GCA_964637215.1_Escherichia_phage_T4mut_betagt_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /t4/ncbi_dataset/data/GCA_015709735.1/GCA_015709735.1_ASM1570973v1_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /t4/ncbi_dataset/data/GCF_000836945.1/GCF_000836945.1_ViralProj14044_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /t4/ncbi_dataset/data/GCA_964625495.1/GCA_964625495.1_Escherichia_phage_T4mut_alphagt_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /t4/ncbi_dataset/data/GCA_020495375.1/GCA_020495375.1_ASM2049537v1_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /t4/ncbi_dataset/data/GCA_021863735.1/GCA_021863735.1_ASM2186373v1_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /t4/ncbi_dataset/data/GCA_022343355.1/GCA_022343355.1_ASM2234335v1_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /t4/ncbi_dataset/data/GCA_000836945.1/GCA_000836945.1_ViralProj14044_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /lambda/ncbi_dataset/data/GCA_000840245.1/GCA_000840245.1_ViralProj14204_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /lambda/ncbi_dataset/data/GCA_002745415.1/GCA_002745415.1_ASM274541v1_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /lambda/ncbi_dataset/data/GCA_035764635.1/GCA_035764635.1_ASM3576463v1_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /lambda/ncbi_dataset/data/GCF_000840245.1/GCF_000840245.1_ViralProj14204_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /tmv/ncbi_dataset/data/GCA_000854365.1/GCA_000854365.1_ViralProj15071_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /tmv/ncbi_dataset/data/GCA_031129455.1/GCA_031129455.1_ASM3112945v1_genomic.fna
+data_collection/Viruses/Non-pathogenic comparators /tmv/ncbi_dataset/data/GCF_000854365.1/GCF_000854365.1_ViralProj15071_genomic.fna
+data_collection/Viruses/Human-pathogenic/norovirusGII/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/merscov/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/influenzaC/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/influenzaB/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/HIV1/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/hcov229e/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/sarscov2/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/norovirusG1/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/hcovOC43/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/hcovNL63/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/hcovHKU1/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/influenzaA/ncbi_dataset/data/genomic.fna
+data_collection/Viruses/Human-pathogenic/sarscov1/ncbi_dataset/data/genomic.fna

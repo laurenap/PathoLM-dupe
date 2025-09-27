@@ -1,0 +1,15 @@
+# Raw data
+data_collection/
+mmseqs_tmp/
+*.fna
+*.fasta
+*.fa
+*.zip
+*.tar.gz
+
+# Tokenized corpora (can regenerate)
+tokenized/corpus*.txt
+
+# System files
+__pycache__/
+.DS_Store
